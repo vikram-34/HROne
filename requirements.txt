@@ -1,0 +1,6 @@
+fastapi>=0.110,<1
+uvicorn[standard]>=0.29,<1
+pymongo>=4.7,<5
+dnspython>=2.6,<3
+pydantic>=2.6,<3
+python-dotenv>=1.0,<2
